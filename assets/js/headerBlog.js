@@ -25,10 +25,10 @@ document.write(
 										"<li><a href='#'>Otra cosa</a></li>",
 									"</ul>",
 								"</li>",
-								"<li><a href='QuienesSomos.html'>¿Quienes somos?</a></li>",
+								"<li><a href='../QuienesSomos.html'>¿Quienes somos?</a></li>",
 								"<li><a href='#contacto'>Contacta con nosotros</a></li>",
-								"<li><a href='#blog'>Blog</a></li>",
 								"<li><a href='#'>Información importante</a></li>",
 							"</ul>",
 						"</nav>",
-);
+					"</section>"
+	);
