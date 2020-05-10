@@ -1,6 +1,5 @@
 document.write(
 	"<section id='header'>",
-
 					"<!-- Logo -->",
 						"<h1><a href='index.html'>JUVI Games</a></h1>",
 
