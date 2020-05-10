@@ -106,7 +106,7 @@ document.write(
 										"</li>",
 										"<li>",
 											"<h3>Teléfono</h3>",
-											"<p>+34 65214814 (número random no llamar)</p>",
+											"<p>+34 55514814</p>",
 										"</li>",
 									"</ul>",
 								"</section>",
