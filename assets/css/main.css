@@ -107,7 +107,7 @@ input, select, textarea {
 	}
 
 	strong, b {
-		color: #252122;
+		color: #3F88BF;
 		font-weight: 400;
 	}
 
@@ -152,12 +152,12 @@ input, select, textarea {
 	}
 
 	a {
-		color: #d52349;
-		text-decoration: underline;
+		color: #3F88BF;
+		text-decoration: none;
 	}
 
 		a:hover {
-			text-decoration: none;
+			text-decoration: underline;
 		}
 
 	br.clear {
@@ -1884,6 +1884,7 @@ input, select, textarea {
 	ul.divided {
 		list-style: none;
 		padding-left: 0;
+
 	}
 
 		ul.divided li {
@@ -2329,7 +2330,7 @@ input, select, textarea {
 		#footer ul.contact li,
 		#footer ul.dates li,
 		#footer ul.divided li {
-			border-top-color: #353434;
+			border-top-color: #3F88BF;
 			border-top-color: rgba(255, 255, 255, 0.05);
 		}
 

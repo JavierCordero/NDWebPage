@@ -2,12 +2,12 @@ document.write(
 	"<section id='header'>",
 
 					"<!-- Logo -->",
-						"<h1><a href='../index.html'>JUVI Games</a></h1>",
+						"<h1><a href='index.html'>JUVI Games</a></h1>",
 
 					"<!-- Nav -->",
 						"<nav id='nav'>",
 							"<ul>",
-								"<li class='current'><a href='../index.html'>Inicio</a></li>",
+								"<li class='current'><a href='index.html'>Inicio</a></li>",
 								"<li class='current'>",
 									"<a href='#'>Familias de productos</a>",
 									"<ul>",
@@ -25,9 +25,9 @@ document.write(
 										"<li><a href='#'>Otra cosa</a></li>",
 									"</ul>",
 								"</li>",
-								"<li class='current'><a href='../QuienesSomos.html'>¿Quienes somos?</a></li>",
+								"<li class='current'><a href='QuienesSomos.html'>¿Quienes somos?</a></li>",
 								"<li class='current'><a href='#contacto'>Contacta con nosotros</a></li>",
-								"<li class='current'><a href='../Informacion.html'>Información importante</a></li>",
+								"<li class='current'><a href='Informacion.html'>Información importante</a></li>",
 							"</ul>",
 						"</nav>",
 					"</section>"

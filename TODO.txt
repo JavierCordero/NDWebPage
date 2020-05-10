@@ -1,6 +1,6 @@
 TO DO:
 
-Pantalla de inicio (Elemento atractivo para los clientes y redirecciones a otros apartados) --> Hecho
+Pantalla de inicio --> Hecho
 
 Quienes somos --> Falta redactarlo
 
@@ -8,7 +8,7 @@ Familias de productos (Información de los productos y tal) --> En la pestaña F
 
 Contacta con nosotros (con formulario) --> Preguntar por formulario, terminar datos (ya podemos coger correo de clientes)
 
-Blog --> Meter 4/5 entradas al blog
+Blog --> Meter 4 entradas al blog y redactarlas
 
 Información importante --> Avisos legales, cookies, formas de envío, métodos de pago, condiciones generales de uso
 
@@ -18,7 +18,7 @@ Información extra como noticias --> Próximos eventos
 ESENCIALES: 
 -Vínculos internos (hecho)
 -Vínculos externos (hecho)
--Pop Up cookies
--5 familias de productos con mínimo 3 productos cada una
+-Pop Up cookies (hecho)
+-5 familias de productos con mínimo 3 productos cada una (es 100% necesario????)
 -Vídeos
 -Animaciones
